@@ -1,3 +1,0 @@
-/home/garuda/raycasting/build/CMakeFiles/raycasting.dir
-/home/garuda/raycasting/build/CMakeFiles/edit_cache.dir
-/home/garuda/raycasting/build/CMakeFiles/rebuild_cache.dir

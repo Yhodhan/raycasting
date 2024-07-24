@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/raycasting.dir/src/glad.c.o CMakeFiles/raycasting.dir/src/main.cpp.o -o raycasting  -lglfw
